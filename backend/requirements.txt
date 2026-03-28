@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+typer
+requests
+beautifulsoup4
+pydantic
+pydantic-settings
+rich
+aiohttp
+phonenumbers
+Pillow
+exifread
+playwright
+holehe
